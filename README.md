@@ -34,7 +34,7 @@ Unmanaged 언어의 장점
 Unanaged 언어의 장점
 
 - 사용자가 직접 메모리 관리를 해야하기 때문에 번거롭다
-- 관리를 안하면 Memory Leack이 발생할 수 있다.
+- 관리를 안하면 Memory Leack이 발생할 수 있다. 
 
 </div>
 </details>
@@ -91,4 +91,4 @@ Unanaged 언어의 장점
 
 ## References
 
-- https://github.com/Lob-dev/Junior-Back-end-Developer-Concepts
+- https://github.com/Lob-dev/Junior-Back-end-Developer-Concepts# prepare-interview
